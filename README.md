@@ -1,5 +1,6 @@
 # Major_Project
 Git Installation and Uploading Model Training Code to GitHub
+
 Step 1: Install Git
 For Windows:
 Download Git from the official Git website: Git for Windows.
